@@ -1,4 +1,4 @@
-# crewai_marketing_analyst
+# CrewAI-agentic-Marketing-use-case
 
 ### Overview
 
@@ -23,5 +23,3 @@ pip install -r requirements.txt
  streamlit run main.py
 ```
 
-
-# CrewAI-agentic-Marketing-use-case
