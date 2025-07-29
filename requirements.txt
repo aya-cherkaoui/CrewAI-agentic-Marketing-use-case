@@ -1,0 +1,7 @@
+crewAI==0.51.0
+langchain_community
+langchain_ibm
+ibm-watsonx-ai
+duckduckgo-search
+crewai-tools
+streamlit
